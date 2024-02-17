@@ -204,7 +204,7 @@ const MySkillsPage = () => {
             </Description>
             <Description>
               <strong>Tools</strong> <br />
-              <p>VScode,Github,Figma,Bootstrap</p>
+              <li>VScode,Github,Figma,Bootstrap</li>
             </Description>
           </Main>
           <BigTitle text="Skills" top="80%" right="30%" />
